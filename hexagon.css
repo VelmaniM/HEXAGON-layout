@@ -12,7 +12,7 @@
 
 /* Hexagon page */
 .Hexagon-main {
-  background-image: url(/image/image-earth.png);
+  background-image: url(image/image-earth.png);
   background-position: center;
   justify-items: center;
   align-content: center;
@@ -378,7 +378,7 @@ button {
 /* contactus banner */
 .contactus-banner {
   width: 100%;
-  background-image: url(/image/image-umberlla.png);
+  background-image: url(image/image-umberlla.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
